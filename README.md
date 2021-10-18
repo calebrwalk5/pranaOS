@@ -7,25 +7,25 @@ A unix operating system written from scratch in c / c++ targeting x86 and arm
 
 ## Build Instructions:
 - building pranaOS
-- view the [build instructions](https://github.com/pranaOS/pranaOS/blob/master/docs/build.md)
+- view the [build instructions](https://github.com/calebrwalk5/pranaOS/blob/master/docs/build.md)
 
 ## Libraries:
 - Runtime Support: libc, libcxx, libobjc, libswift
 - Functionality Support: libfoundation
 - UI Functionality Support: LibG, LibUI
-- [learn more](https://github.com/pranaOS/pranaOS/blob/master/docs/libraries.md)
+- [learn more](https://github.com/calebrwalk5/pranaOS/blob/master/docs/libraries.md)
 
 
 ## Contributing Docs:
 - pranaOS is an open source project so you can contribute to it instructions for contributing to pranaOS will be find below pr's are always welcome!!!! ;)
-- before contributing to pranaOS check the [coding style](https://github.com/pranaOS/pranaOS/blob/master/docs/codingstyle.md)
-- contributing [docs](https://github.com/pranaOS/pranaOS/blob/master/docs/contributing.md)
+- before contributing to pranaOS check the [coding style](https://github.com/calebrwalk5/pranaOS/blob/master/docs/codingstyle.md)
+- contributing [docs](https://github.com/calebrwalk5/pranaOS/blob/master/docs/contributing.md)
 
 ## Have any issues???:
-- have any doubts or found any bugs create open a [issue](https://github.com/pranaOS/pranaOS/issues/new/choose)
+- have any doubts or found any bugs create open a [issue](https://github.com/calebrwalk5/pranaOS/issues/new/choose)
 
 ## Future Plans Of pranaOS
-- view the future plans of [pranaos](https://github.com/pranaOS/pranaOS/blob/master/plans/pranaOSfutureplans.pdf)
+- view the future plans of [pranaos](https://github.com/calebrwalk5/pranaOS/blob/master/plans/pranaOSfutureplans.pdf)
 
 ## Get In Touch:
 - Join our discord server: [pranaOS discord](https://discord.gg/XmpBTmy9Bz)
@@ -36,16 +36,11 @@ A unix operating system written from scratch in c / c++ targeting x86 and arm
   <img src="https://contributors-img.web.app/image?repo=pranaOS/pranaOS" />
 </a>
 
-## Sponsors:
-<img src="https://raw.githubusercontent.com/pranaOS/pranaOS/master/docs/images/jetbrains-clion.png"></img>
-
-- thank you jetbrains for sponsoring pranaOS
-
 ## Mirror:
 - [gitlab](https://gitlab.com/krish_pranav/pranaos)
 
 ### Some Sources Took From Other Projects:
-- [license](https://github.com/pranaOS/pranaOS/blob/master/docs/otherprojectslicense.md)
+- [license](https://github.com/calebrwalk5/pranaOS/blob/master/docs/otherprojectslicense.md)
 
 ## Social Media:
 - [twitter](https://twitter.com/os_prana)
